@@ -1,0 +1,36 @@
+body{
+   background-color: #14274e;
+   text-align: center;
+}
+.container {
+  width: 60%;
+  margin: auto;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+    text-shadow: 5px 0 0 #74c7b8;
+    color: #16a596;
+    margin: 3rem;
+}
+.dice{
+  font-family: 'Langar', cursive;
+  font-size: 3rem;
+  margin: 3rem;
+  display: inline-block;
+  color: #16a596;
+}
+.bottom{
+  color: #fff;
+  margin-top: 5%;
+  padding: 3%;
+}
+.steps{
+  font-family: 'Langar', cursive;
+  font-size: 2rem;
+  margin: 3rem;
+  color: #f37121;
+}
+i{
+  margin: 2% 5px 2%;
+}
